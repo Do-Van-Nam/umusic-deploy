@@ -95521,7 +95521,7 @@ $0(){var s,r,q,p,o=null,n=this.a,m=n.length,l=J.kR(m,t.l7)
 for(s=0;s<m;s=r){r=s+1
 q=r%4===0?0:8
 p=n[s]
-l[s]=A.aj(o,new A.wy(p.b,p.a,o),B.l,o,o,o,o,o,o,new A.ao(0,0,q,16),o,o,o,180)}return l},
+l[s]=A.aj(o,new A.wy(p.b,p.a,o),B.l,o,o,o,o,o,o,new A.ao(0,0,q,16),o,o,o,140)}return l},
 $S:239}
 A.wX.prototype={
 G(a){var s,r,q,p,o="collectionId"
@@ -95674,7 +95674,7 @@ r=A.U("\u0110\u1ec1 su\u1ea5t cho b\u1ea1n",p,p,p,p,r==null?p:r.ea("Inter",24,B.
 q=A.b1(a,p,t.w).w
 return new A.fs(A.aj(p,A.EO(A.a([r,B.A,A.ax(A.pA(),q.a.b,p)],t.p),B.N,p,!1),B.l,s,p,p,p,1/0,p,p,p,p,p,p),p)}}
 A.r6.prototype={
-G(a){var s=this,r=null,q=A.b1(a,r,t.w).w.a.a<600,p=q?180:200,o=A.aW(8),n=q?180:200,m=q?180:200
+G(a){var s=this,r=null,q=A.b1(a,r,t.w).w.a.a<600,p=q?160:200,o=A.aW(8),n=q?160:200,m=q?160:200
 n=A.a([A.er(o,A.Ps(new A.a8u(),B.ad,m,s.c,new A.a8v(),n),B.a3),B.ar],t.p)
 o=s.d
 m=o!=null
@@ -96318,7 +96318,7 @@ A.aNP.prototype={
 $0(){A.e8($.aO(),"/library/playlist/"+A.ks(2,"Nh\u01b0 Ch\u01b0a Bao Gi\u1edd",B.Z,!1),null,t.z)},
 $S:0}
 A.BA.prototype={
-G(a){var s=null,r=A.b1(a,s,t.w).w.a.a<600,q=r?170:200,p=A.aW(8),o=r?170:200,n=r?170:200,m=A.a([B.or,B.o_],t.t_)
+G(a){var s=null,r=A.b1(a,s,t.w).w.a.a<600,q=r?140:200,p=A.aW(8),o=r?140:200,n=r?140:200,m=A.a([B.or,B.o_],t.t_)
 return A.cT(s,A.ax(A.ay(A.a([A.er(p,A.aj(s,A.eG(A.c6(B.K2,B.h,s,50),s,s),B.l,s,s,new A.aG(s,s,s,s,s,new A.j2(B.cg,B.h7,B.bv,m,s,s),B.y),s,n,s,s,s,s,s,o),B.a3),B.ar,A.U("T\u1ea1o play list ph\xe1t m\u1edbi",1,B.Y,s,s,B.bd,s,s)],t.p),B.t,B.f,B.e),s,q),B.u,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a8s(a),s,s,s,s,s,s)}}
 A.a8s.prototype={
 $0(){return A.biG(this.a)},
@@ -96359,7 +96359,7 @@ $S:0}
 A.EH.prototype={
 a5(){return new A.a0R()}}
 A.a0R.prototype={
-G(a){var s=this,r=null,q=A.b1(a,r,t.w).w.a.a<600,p=q?180:200,o=A.aW(8),n=s.a.c,m=q?180:200,l=q?180:200,k=t.p
+G(a){var s=this,r=null,q=A.b1(a,r,t.w).w.a.a<600,p=q?140:200,o=A.aW(8),n=s.a.c,m=q?160:200,l=q?160:200,k=t.p
 m=A.a([A.er(o,A.eN("assets/images/Rectangle 6166-"+n+".png",B.ad,l,m),B.a3)],k)
 if(s.d){o=A.al(B.d.aA(127.5),B.n.p()>>>16&255,B.n.p()>>>8&255,B.n.p()&255)
 n=A.aW(8)
@@ -96394,7 +96394,7 @@ $S:0}
 A.y4.prototype={
 a5(){return new A.a23()}}
 A.a23.prototype={
-G(a){var s=this,r=null,q=A.b1(a,r,t.w).w.a.a<600,p=q?170:200,o=A.aW(8),n=s.a.c,m=q?170:200,l=q?170:200,k=t.p
+G(a){var s=this,r=null,q=A.b1(a,r,t.w).w.a.a<600,p=q?140:200,o=A.aW(8),n=s.a.c,m=q?140:200,l=q?140:200,k=t.p
 m=A.a([A.er(o,A.eN("assets/images/Rectangle 6166-"+n+".png",B.ad,l,m),B.a3)],k)
 if(s.d){o=A.al(B.d.aA(127.5),B.n.p()>>>16&255,B.n.p()>>>8&255,B.n.p()&255)
 n=A.aW(8)
